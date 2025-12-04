@@ -20,7 +20,7 @@
 ```yaml
 Name: Jhones Bomfim
 Location: Porto Alegre, Brazil
-Current_Job: DevOps Engineer
+Current_Job: Software Engineer / DevOps
 
 Education:
   - "bachelor's in computer science"
