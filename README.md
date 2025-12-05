@@ -162,9 +162,22 @@ Hobbies: ["Coding", "Youtube", "soccer", "Comedy"]
 
 
 ### Databases
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
-
-</div>
+<table>
+<tr>
+<td align="center" width="25%">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/><br/>
+<b>MySQL</b>
+</td>
+<td align="center" width="25%">
+<img src="![AWS](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-plain.svg)" alt="AWS" width="40" height="40"/><br/>
+<b>AWS</b>
+</td>
+<td align="center" width="25%">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="Azure" width="40" height="40"/><br/>
+<b>Azure</b>
+</td>
+</tr>
+</table>
 
 ---
 
