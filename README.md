@@ -185,10 +185,6 @@ Hobbies: ["Coding", "Youtube", "soccer", "Comedy"]
   <img src="https://github-readme-stats.vercel.app/api?username=JhonesBomfim&show_icons=true&theme=radical" alt="GitHub Stats" />
 </div>
 
-<div align="center">
- <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=JhonesBomfim&theme=dark&hide_border=true" alt="GitHub Streak" /></a>
-</div>
-
 ---
 
 <div align="center">
