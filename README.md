@@ -70,30 +70,70 @@ Hobbies:
 <div align="center">
 
 ### 💻 Programming & Scripting Languages
-
-![Bash](https://shields.io)
-![C#](https://shields.io)
-![Python](https://shields.io)
-![C++](https://shields.io)
+<table>
+<tr>
+<td align="center" width="25%">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" width="50" height="50"/><br/>
+<b>Bash / Shell</b>
+</td>
+<td align="center" width="25%">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="50" height="50"/><br/>
+<b>C# (.NET)</b>
+</td>
+<td align="center" width="25%">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="50" height="50"/><br/>
+<b>Python</b>
+</td>
+<td align="center" width="25%">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/qt/qt-original.svg" width="50" height="50"/><br/>
+<b>C++ (Qt)</b>
+</td>
+</tr>
+</table>
 
 ### ☸️ Containerization & Orchestration (High Availability)
-
-![Kubernetes](https://shields.io)
-![Rancher](https://shields.io)
-![Docker](https://shields.io)
-![Linux](https://shields.io)
+<table>
+<tr>
+<td align="center" width="25%">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" width="50" height="50"/><br/>
+<b>Kubernetes (K8s)</b>
+</td>
+<td align="center" width="25%">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rancher/rancher-original.svg" width="50" height="50"/><br/>
+<b>Rancher</b>
+</td>
+<td align="center" width="25%">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="50" height="50"/><br/>
+<b>Docker</b>
+</td>
+<td align="center" width="25%">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="50" height="50"/><br/>
+<b> AWS </b>
+</td>
+</tr>
+</table>
 
 ### ⚙️ CI/CD & Infrastructure as Code (IaC)
-
-![GitLab](https://shields.io)
-![Terraform](https://shields.io)
-![GitHub Actions](https://shields.io)
-![MySQL](https://shields.io)
-
-### ☁️ Cloud Providers (Currently Learning / Hybrid Strategy)
-
-![AWS](https://shields.io)
-![Azure](https://shields.io)
+<table>
+<tr>
+<td align="center" width="25%">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" width="50" height="50"/><br/>
+<b>GitLab CI / Runners</b>
+</td>
+<td align="center" width="25%">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg" width="50" height="50"/><br/>
+<b>Terraform</b>
+</td>
+<td align="center" width="25%">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" width="50" height="50"/><br/>
+<b>GitHub Actions</b>
+</td>
+<td align="center" width="25%">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="50" height="50"/><br/>
+<b>MySQL / Databases</b>
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -105,10 +145,6 @@ Hobbies:
 
 ---
 
-
----
-
----
 
 <div align="center">
   
