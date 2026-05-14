@@ -70,84 +70,30 @@ Hobbies:
 <div align="center">
 
 ### 💻 Programming & Scripting Languages
-<table>
-<tr>
-<td align="center" width="25%">
-<img src="https://jsdelivr.net" width="50" height="50"/><br/>
-<b>Bash / Shell</b>
-</td>
-<td align="center" width="25%">
-<img src="https://jsdelivr.net" width="50" height="50"/><br/>
-<b>C# (.NET)</b>
-</td>
-<td align="center" width="25%">
-<img src="https://jsdelivr.net" width="50" height="50"/><br/>
-<b>Python</b>
-</td>
-<td align="center" width="25%">
-<img src="https://jsdelivr.net" width="50" height="50"/><br/>
-<b>C++ (Qt)</b>
-</td>
-</tr>
-</table>
+
+![Bash](https://shields.io)
+![C#](https://shields.io)
+![Python](https://shields.io)
+![C++](https://shields.io)
 
 ### ☸️ Containerization & Orchestration (High Availability)
-<table>
-<tr>
-<td align="center" width="25%">
-<img src="https://jsdelivr.net" width="50" height="50"/><br/>
-<b>Kubernetes (K8s)</b>
-</td>
-<td align="center" width="25%">
-<img src="https://shields.io" height="40"/><br/>
-<b>Rancher</b>
-</td>
-<td align="center" width="25%">
-<img src="https://jsdelivr.net" width="50" height="50"/><br/>
-<b>Docker</b>
-</td>
-<td align="center" width="25%">
-<img src="https://jsdelivr.net" width="50" height="50"/><br/>
-<b>Bare-Metal / Linux</b>
-</td>
-</tr>
-</table>
+
+![Kubernetes](https://shields.io)
+![Rancher](https://shields.io)
+![Docker](https://shields.io)
+![Linux](https://shields.io)
 
 ### ⚙️ CI/CD & Infrastructure as Code (IaC)
-<table>
-<tr>
-<td align="center" width="25%">
-<img src="https://jsdelivr.net" width="50" height="50"/><br/>
-<b>GitLab CI / Runners</b>
-</td>
-<td align="center" width="25%">
-<img src="https://jsdelivr.net" width="50" height="50"/><br/>
-<b>Terraform</b>
-</td>
-<td align="center" width="25%">
-<img src="https://jsdelivr.net" width="50" height="50"/><br/>
-<b>GitHub Actions</b>
-</td>
-<td align="center" width="25%">
-<img src="https://jsdelivr.net" width="50" height="50"/><br/>
-<b>MySQL / Databases</b>
-</td>
-</tr>
-</table>
+
+![GitLab](https://shields.io)
+![Terraform](https://shields.io)
+![GitHub Actions](https://shields.io)
+![MySQL](https://shields.io)
 
 ### ☁️ Cloud Providers (Currently Learning / Hybrid Strategy)
-<table>
-<tr>
-<td align="center" width="50%">
-<img src="https://jsdelivr.net" width="50" height="50"/><br/>
-<b>AWS</b>
-</td>
-<td align="center" width="50%">
-<img src="https://jsdelivr.net" width="50" height="50"/><br/>
-<b>Azure</b>
-</td>
-</tr>
-</table>
+
+![AWS](https://shields.io)
+![Azure](https://shields.io)
 
 </div>
 
@@ -156,6 +102,9 @@ Hobbies:
 <div align="center">
   <img src="https://vercel.app" alt="GitHub Stats" />
 </div>
+
+---
+
 
 ---
 
